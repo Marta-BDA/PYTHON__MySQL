@@ -1,4 +1,4 @@
-En este repositorio podremos encontrar ejercicios de pair programing realizados bajo la metodología de SCRUM, de la filosofía AGILE.
+En este repositorio encontramos ejercicios de pair programing realizados bajo la metodología de SCRUM, de la filosofía AGILE.
 Están realizados durante el bootcamp de Data Analist de Adalab.
 
 La realización de estos ejercicios ha sido en lenguaje Python y MySQL.
